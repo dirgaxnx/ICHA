@@ -1,3 +1,9 @@
-{
-  "akun": []
-}
+[
+  {
+    "username": "dirga",
+    "password": "1122",
+    "role": "owner",
+    "expiresAt": 1768742971489,
+    "createdAt": 1760189371489
+  }
+]
